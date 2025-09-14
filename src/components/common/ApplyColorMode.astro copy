@@ -28,6 +28,6 @@ import { UI } from 'astrowind:config';
   ) {
     applyTheme('dark');
   } else {
-    applyTheme('dark');
+    applyTheme('light');
   }
 </script>
