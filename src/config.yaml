@@ -1,5 +1,5 @@
 site:
-  name: Saka Exchange
+  name: AtroWind
   site: 'https://astrowind.vercel.app'
   base: '/'
   trailingSlash: false
