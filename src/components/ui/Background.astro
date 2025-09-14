@@ -6,6 +6,6 @@ export interface Props {
 const { isDark = false } = Astro.props;
 ---
 
-<div class:list={['absolute ', { 'bg-dark dark:bg-transparent': isDark }]}>
+<div class:list={[' ', { '': isDark }]}>
   <slot />
 </div>
