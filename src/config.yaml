@@ -11,7 +11,9 @@ metadata:
   title:
     default: 
     template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "Fast Crypto Exchnage, The average time for exchange, is about 2 minutes, You can track the crypto , swap progress on , the exchange page."
+  
+  
   robots:
     index: true
     follow: true
